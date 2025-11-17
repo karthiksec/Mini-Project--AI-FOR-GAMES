@@ -1,5 +1,5 @@
 # Unity 2D Coin Collector Game
-# Nmae:Karthik G.
+# Name:Karthik G.
 # REG NO:212223220043 
 # AIM:
 To create a Unity-based 2D game where the player collects coins, avoids obstacles, and reaches the end of the level.
